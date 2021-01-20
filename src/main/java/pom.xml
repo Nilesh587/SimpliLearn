@@ -1,7 +1,7 @@
 <project>
-    <modelVersion>1.0.0</modelVersion>
+    <modelVersion>4.0.0</modelVersion>
     <groupId>com.nileshshinde198.simplilearn</groupId>
-    <artifactId>JavaProg</artifactId>
+    <artifactId>Demo1</artifactId>
     <version>1.0</version>
     <name>product</name>
     <packaging>jar</packaging>
