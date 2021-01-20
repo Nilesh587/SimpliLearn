@@ -1,0 +1,8 @@
+<project>
+    <modelVersion>1.0.0</modelVersion>
+    <groupId>com.nileshshinde198.simplilearn</groupId>
+    <artifactId>JavaProg</artifactId>
+    <version>1.0</version>
+    <name>product</name>
+    <packaging>jar</packaging>
+</project>
